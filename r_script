@@ -7,4 +7,4 @@ source /opt/asn/etc/asn-bash-profiles-special/modules.sh
 module load R/3.5.1
 #
 # command to run R
-R CMD BATCH R_script.r out.txt
+R CMD BATCH R_script.r out_edited.txt
